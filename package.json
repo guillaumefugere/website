@@ -1,0 +1,12 @@
+{
+  "name": "guillaumefugere.dev",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "devDependencies": {
+    "nuxt": "^2.14.7"
+  }
+}
