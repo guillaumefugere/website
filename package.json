@@ -1,6 +1,7 @@
 {
   "name": "guillaumefugere.dev",
   "scripts": {
+    "nvm": "nvm use 14.15.1",
     "dev": "nuxt",
     "build": "nuxt build",
     "generate": "nuxt generate",
