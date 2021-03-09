@@ -1,13 +1,13 @@
 {
   "name": "guillaumefugere.dev",
   "scripts": {
-    "nvm": "nvm use 14.15.1",
+    "nvm": "nvm use 14.16.0",
     "dev": "nuxt",
     "build": "nuxt build",
     "generate": "nuxt generate",
     "start": "nuxt start"
   },
   "devDependencies": {
-    "nuxt": "^2.14.7"
+    "nuxt": "^2.15.2"
   }
 }
