@@ -1,0 +1,6 @@
+{
+  "auto-close-tag.disableOnLanguage": ["typescript"],
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "stylelint.validate": ["css", "scss"]
+}
