@@ -1,0 +1,9 @@
+[build]
+  publish = "dist/website"
+  command = "npm run build"
+  environment = { NODE_VERSION = "16.18.1" }
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
