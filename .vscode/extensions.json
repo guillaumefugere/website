@@ -6,6 +6,7 @@
     "esbenp.prettier-vscode",
     "stylelint.vscode-stylelint",
     "usernamehw.errorlens",
-    "formulahendry.auto-close-tag"
+    "formulahendry.auto-close-tag",
+    "bungcip.better-toml"
   ]
 }
